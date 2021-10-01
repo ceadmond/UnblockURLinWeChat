@@ -1,5 +1,5 @@
 #!name=解除微信链接限制
-#!desc=解除微信链接限制
+#!desc=UnblockURLinWeChat
 
 [MITM]
 hostname = %APPEND% security.wechat.com, weixin110.qq.com
